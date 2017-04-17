@@ -1,15 +1,12 @@
 div{
-   height: 50px;
-   width: 259px;
+   display: inline-block;
    margin: 10px;
 }
 
 .orilla{
    background-color: gold;
-   border: solid gold;
 }
 
 .medio{
    background-color: magenta;
-   border: solid #000;
 }
